@@ -39,6 +39,26 @@ An assignment turned in to him can be graded by a teacher.
 
 Spring Boot CRUD  opreation application with  features using Spring Boot, Spring Data JPA, Hibernate, postgresql database
 
+How To Use:
+i. Create Database -> Student_Assignments_Application
+ii. Open project in preferred IDE (I used SpringToolsSuite4)
+
+iii. Run the project as a Spring Boot app.
+
+iv. Hibernate will automatically create a table -> employee
+
+v. Add sample data to the table using  Postgresql pgadmin tools
+
+vi.  Open Postman Application at localhost: 8080/
+
+vii. save data as json formate
+
+
+
+
+
+
+
 
 
 
