@@ -29,9 +29,9 @@ Every assignment that has been turned in to a teacher can be listed.
 
 An assignment turned in to him can be graded by a teacher.
 
-image
+![image](https://github.com/user-attachments/assets/87d0a60e-f046-4a50-9b81-60a267f89aa4)
 
-image
+![image](https://github.com/user-attachments/assets/28718190-3ec0-4b75-9cf9-b6b1853dd929)
 
 springboot- Student_assignment_application
 Spring Boot CRUD opreation application with features using Spring Boot, Spring Data JPA, Hibernate, postgresql database
