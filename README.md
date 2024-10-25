@@ -1,0 +1,49 @@
+Student_Assignment_application
+Five sources are available:
+
+People
+
+Main
+
+Students
+
+Educators
+
+Assignments
+
+Five users—two students, two instructors, and the principal—have already been established in the database fixture for you.
+
+Every instructor is visible to the principal.
+
+Every assignment that has been turned in and/or graded by instructors is visible to the principal.
+
+Regrading of previously graded assignments by a principal is an option.
+
+A student is able to compose an assignment and amend it.
+
+A learner has the ability to list all of his completed tasks.
+
+A student may turn in a draft assignment to their instructor.
+
+Every assignment that has been turned in to a teacher can be listed.
+
+An assignment turned in to him can be graded by a teacher.
+
+image
+
+image
+
+springboot- Student_assignment_application
+Spring Boot CRUD opreation application with features using Spring Boot, Spring Data JPA, Hibernate, postgresql database
+
+How To Use: i. Create Database -> Student_Assignments_Application ii. Open project in preferred IDE (I used SpringToolsSuite4)
+
+iii. Run the project as a Spring Boot app.
+
+iv. Hibernate will automatically create a table -> employee
+
+v. Add sample data to the table using Postgresql pgadmin tools
+
+vi. Open Postman Application at localhost: 8080/
+
+vii. save data as json formate
