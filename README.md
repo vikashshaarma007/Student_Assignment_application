@@ -2,8 +2,6 @@
 
 <p align="center"><i>A Spring MVC web application for Student_Assignment Application with the following CRUD operations i</i></p>
 <br>
-<p align="center"><i>Looking forward to working with you Voizer.ai!</i> 👨🏽‍💻 </p>
-<br>
 
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻
   <br>
@@ -14,22 +12,15 @@ To create APIs that allow users to create, update, delete, and fetch all Assignm
 
 ![image](https://github.com/user-attachments/assets/28718190-3ec0-4b75-9cf9-b6b1853dd929)
 
-## 
+## Tables to include:
 ```sh
-User: Details on all users, including roles and project assignments.
-Main: Defines role types (Requester, Manager, Developer). -
-Students
-Educators
-Assignments
-Tables to include:
-**Users**: Details on all users, including roles and project assignments.
-**Roles**: Defines role types (Requester, Manager, Developer). -
-**ChangeRequests**: Fields for title, description, priority, due date, status, and timestamps. 
-**Teams**: Information on development teams and assigned developers. -
-**Timeline**: Tracks stages of each change request (start/completion dates, responsible 
-
+ *Users: Details on all users, including roles and project assignments.
+ *Roles: Defines role types (Requester, Manager, Developer). -
+ *ChangeRequests: Fields for title, description, priority, due date, status, and timestamps. 
+ *Teams*: Information on development teams and assigned developers. -
+ *Timeline*: Tracks stages of each change request (start/completion dates, responsible 
 ```
-##
+## Roles and Permissions
 ```sh
 1. Five users—two students, two instructors, and the principal—have already been established in the database fixture for you.
 2. Every instructor is visible to the principal.
@@ -39,8 +30,7 @@ Tables to include:
 6. A learner has the ability to list all of his completed tasks.
 5. A student may turn in a draft assignment to their instructor.
 7. Every assignment that has been turned in to a teacher can be listed.
-
-An assignment turned in to him can be graded by a teacher.
+8. An assignment turned in to him can be graded by a teacher.
 ```
 
 
