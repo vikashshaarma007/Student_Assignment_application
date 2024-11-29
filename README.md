@@ -14,11 +14,11 @@ To create APIs that allow users to create, update, delete, and fetch all Assignm
 
 ## Tables to include:
 ```sh
- *Users: Details on all users, including roles and project assignments.
- *Roles: Defines role types (Requester, Manager, Developer). -
- *ChangeRequests: Fields for title, description, priority, due date, status, and timestamps. 
- *Teams*: Information on development teams and assigned developers. -
- *Timeline*: Tracks stages of each change request (start/completion dates, responsible 
+ 1. Users: Details on all users, including roles and project assignments.
+ 2. Roles: Defines role types (Requester, Manager, Developer). -
+ 3. ChangeRequests: Fields for title, description, priority, due date, status, and timestamps. 
+ 4. Teams*: Information on development teams and assigned developers. -
+ 5. Timeline*: Tracks stages of each change request (start/completion dates, responsible 
 ```
 ## Roles and Permissions
 ```sh
