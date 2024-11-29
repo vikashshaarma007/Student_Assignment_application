@@ -16,11 +16,18 @@ To create APIs that allow users to create, update, delete, and fetch all Assignm
 
 ## 
 ```sh
-People
-Main
+User: Details on all users, including roles and project assignments.
+Main: Defines role types (Requester, Manager, Developer). -
 Students
 Educators
 Assignments
+Tables to include:
+**Users**: Details on all users, including roles and project assignments.
+**Roles**: Defines role types (Requester, Manager, Developer). -
+**ChangeRequests**: Fields for title, description, priority, due date, status, and timestamps. 
+**Teams**: Information on development teams and assigned developers. -
+**Timeline**: Tracks stages of each change request (start/completion dates, responsible 
+
 ```
 ##
 ```sh
