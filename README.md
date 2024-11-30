@@ -12,14 +12,7 @@ To create APIs that allow users to create, update, delete, and fetch all Assignm
 
 ![image](https://github.com/user-attachments/assets/28718190-3ec0-4b75-9cf9-b6b1853dd929)
 
-## Tables to include:
-```sh
- 1. Users: Details on all users, including roles and project assignments.
- 2. Roles: Defines role types (Requester, Manager, Developer). -
- 3. ChangeRequests: Fields for title, description, priority, due date, status, and timestamps. 
- 4. Teams*: Information on development teams and assigned developers. -
- 5. Timeline*: Tracks stages of each change request (start/completion dates, responsible 
-```
+
 ## Roles and Permissions
 ```sh
 1. Five users—two students, two instructors, and the principal—have already been established in the database fixture for you.
